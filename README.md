@@ -2,7 +2,7 @@
 
 <br>
 
-Me Chamo Renan, sou de **Florianópolis - SC/Brasil**, e atualmente sou **Estudante de Desenvolvimento Web Full-Stack** na [**Trybe**](https://www.betrybe.com/).
+Me Chamo Renan, sou de **Florianópolis - SC/Brasil**, sou formado em Engenharia Elétrica, optei por seguir carreira em programação, fiz um curso de **Desenvolvimento Web Full-Stack** na [**Trybe**](https://www.betrybe.com/) de 1 ano e atualmente sou **Desenvolvedor Web Full-Stack Pleno** na empresa [**Meta**](https://digital.meta.com.br/).
 
 <br>
 
@@ -22,22 +22,23 @@ Me Chamo Renan, sou de **Florianópolis - SC/Brasil**, e atualmente sou **Estuda
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</p>
-
-<br>
-
-#### 🌱 Estou aprendendo no momento:
-
-<br>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 </p>
 
-
-#### 🔭 Atualmente estou trabalhando no projeto [***Trybeer***](https://github.com/renanhcunha/TryBeer)
 <br>
+
+<!-- #### 🌱 Estou aprendendo no momento:
+
+<br>
+
+<p align="center">
+
+</p> -->
+
+
+<!-- #### 🔭 Atualmente estou trabalhando no projeto [***Trybeer***](https://github.com/renanhcunha/TryBeer)
+<br> -->
 
 #### :bicyclist: Meus hobbies são andar de bicicleta e jogar videogame :video_game:
 <br>
