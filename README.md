@@ -4,6 +4,8 @@
 
 Me Chamo Renan, sou de **Florianópolis - SC/Brasil**, sou formado em Engenharia Elétrica, optei por seguir carreira em programação, fiz um curso de **Desenvolvimento Web Full-Stack** na [**Trybe**](https://www.betrybe.com/) de 1 ano e atualmente sou **Desenvolvedor Web Full-Stack Pleno** na empresa [**Meta**](https://digital.meta.com.br/).
 
+No momento estou buscando me especializar em **Front-end** e estou sempre em busca de novos aprendizados e desafios, buscando cada vez mais aprimorar o trabalho em equipe de forma colaborativa e a comunicação de forma eficiente.
+
 <br>
 
 #### Algumas tecnologias e ferramentas que aprendi:
