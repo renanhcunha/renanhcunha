@@ -56,9 +56,9 @@ Estou sempre em busca de novos aprendizados e desafios, buscando cada vez mais a
 <br>
 
 <p align="center">
-  <a target="_blank" href="https://renanhcunha.github.io/">
+<!--   <a target="_blank" href="https://renanhcunha.github.io/">
     <img src="https://img.shields.io/badge/-Portfolio-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img>
-  </a>	
+  </a>	 -->
   <a target="_blank" href="https://www.linkedin.com/in/renanhcunha">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
   </a>
