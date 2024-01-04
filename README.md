@@ -2,7 +2,7 @@
 
 <br>
 
-Me Chamo Renan, sou de **Florianópolis - SC/Brasil**, sou formado em Engenharia Elétrica, optei por seguir carreira em programação, fiz um curso de **Desenvolvimento Web Full-Stack** na [**Trybe**](https://www.betrybe.com/) de 1 ano e atualmente sou **Desenvolvedor Web Front-End Pleno** na empresa [**Loja do Mecânico**](https://www.lojadomecanico.com.br/).
+Me Chamo Renan, sou de **Florianópolis - SC/Brasil**, sou formado em **Engenharia Elétrica** pela [**UFSC**](https://ufsc.br/), optei por seguir carreira em desenvolvimento de software, me formei em **Desenvolvimento Web Full-Stack** na [**Trybe**](https://www.betrybe.com/) e atualmente sou **Desenvolvedor Web Front-End Sênior** na empresa [**Opah**](https://opah.com.br/).
 
 Estou sempre em busca de novos aprendizados e desafios, buscando cada vez mais aprimorar o trabalho em equipe de forma colaborativa e a comunicação de forma eficiente.
 
@@ -26,6 +26,8 @@ Estou sempre em busca de novos aprendizados e desafios, buscando cada vez mais a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+          
 </p>
 
 <br>
@@ -42,7 +44,7 @@ Estou sempre em busca de novos aprendizados e desafios, buscando cada vez mais a
 <!-- #### 🔭 Atualmente estou trabalhando no projeto [***Trybeer***](https://github.com/renanhcunha/TryBeer)
 <br> -->
 
-#### :bicyclist: Meus hobbies são andar de bicicleta e jogar videogame :video_game:
+#### 🚴 Meus hobbies são andar de bicicleta, fazer trilhas, jogar videogame e tocar violão 🎮 🎸
 <br>
 
 #### 💬 Pergunte-me sobre qualquer coisa, adoro ajudar :wink:  
